@@ -1,0 +1,9 @@
+body {
+  background-color: #f99;
+  background-image: url('../Media/Cric.png');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  font-family: monospace;
+  font-size: 2em;
+  color: white;
+}
